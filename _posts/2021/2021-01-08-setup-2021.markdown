@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Setup 2021 !"
 date:   2021-01-08 20:09:00 +0100
 categories: gaming setup
 image: media/2021/20210107-setup-cover.jpg
 ---
 
-Bonjour Guillaume, je suis avec attention ta chaîne depuis que je suis tombé dessus une nuit en donnant le biberon à ma fille de 1 mois. J'aimerais passer dans une de tes vidéos
+Bonjour Guillaume, je suis avec attention ta chaîne depuis que je suis tombé dessus une nuit en donnant le biberon à ma fille de 1 mois. J'aimerais passer dans une de tes vidéos.
 
 J'ai beaucoup apprécié tes 2 setups : [le 2019](https://www.youtube.com/watch?v=QNivxUlGw_g&t=1035s) et [le plus récent](https://www.youtube.com/watch?v=Jv5Wt0P-IuE). Ca m'a donné pas mal d'idée pour le mien. J'aimerais te montrer mon setup et pourquoi pas que tu me sélectionnes pour passer dans une de tes prochaines vidéos sur Youtube.
 
