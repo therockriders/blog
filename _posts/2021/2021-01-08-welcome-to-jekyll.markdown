@@ -1,0 +1,124 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2021-01-08 20:09:00 +0100
+categories: gaming setup
+image: media/2021/20210107-setup-cover.jpg
+---
+
+Bonjour Guillaume, je suis avec attention ta chaîne depuis que je suis tombé dessus une nuit en donnant le biberon à ma fille de 1 mois. J'aimerais passer dans une de tes vidéos
+
+J'ai beaucoup apprécié tes 2 setups : [le 2019](https://www.youtube.com/watch?v=QNivxUlGw_g&t=1035s) et [le plus récent](https://www.youtube.com/watch?v=Jv5Wt0P-IuE). Ca m'a donné pas mal d'idée pour le mien. J'aimerais te montrer mon setup et pourquoi pas que tu me sélectionnes pour passer dans une de tes prochaines vidéos sur Youtube.
+
+### L'histoire de mon setup
+
+J'ai toujours apprécié avoir un setup sympa, qu'il soit chargé ou minimaliste. J'ai eu pendant longtemps les cables en vrac sous le bureau. C'est Stefan Didak avec [son setup](http://www.stefandidak.com/office/home-office-version-7-setup-making-of/) qui m'a donné envie de faire un joli cable management, il y a un peu plus d'un an. Je suis ensuite tombé sur tes vidéos et sur celles de [Tech Tesseract](https://www.youtube.com/channel/UCT9CJkrdmTnZ-M5xns9chXQ). C'est tout cela qui m'a inspiré pour le setup que je te présente aujourd'hui.
+
+Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1999 à 2017). Le but est de pouvoir notamment jouer à des jeux d'époques différentes sur la machine et l'écran (~) de l'époque. Les machines sont les suivantes :
+
+### 1999 : Dell XPS
+
+* Processeur Intel Pentium 3 450 Mhz (SSE 2)
+* Carte mère ? socket slot 1, chipset 440 BX ?
+* 128 Mo de SDRAM PC133
+* Disques durs ?
+* Carte graphine TNT 2 Diamond ? 16 Mo ram ? PCI
+* Carte son ?
+* Lecteur cd
+* Graveur cd ?
+* Lecteur de disquette
+* Windows 98 v2
+* Jeux : Half Life, Star Wars Racer, F1 Racing Simulation
+* Ecran : Dell 1908FP, 4/3, résolution de 1280x1024, 75 hz ?, sur prise vga
+* Périphériques de jeu : Microsoft SideWinder Forcefeedback Pro, pad Saitek X6-34
+
+### 2003 : Pentium 4
+
+* Processeur Intel Pentium 4C 2.8 Ghz, 2 coeurs (Hyper Threating), FSB 800 mhz
+* Carte mère Asus P4C800 Deluxe, socket 478, chipset i875P
+* 512 Mo de DDRAM PC3200
+* Disques durs ?
+* Carte graphique ATI Radeon 9800 Pro (Sapphire ?) 128 Mo, AGP
+* Carte son intégrée ADI AD1985 SoundMAX 6-channel
+* Boitier Antec SX1040BII
+* Windows XP
+* Jeux : Half Life 2, NFS Undergroud 1 et 2, Far Cry, Doom 3, Fear, Richard Burns Rally
+* Ecran : Dell 1908FP, 4/3, résolution de 1280x1024, 75 hz ?, sur prise dvi
+* Périphériques de jeu : 1 pad Microsoft SideWinder
+
+### 2007 : Core 2 Duo
+
+* Processeur Intel Core 2 Duo E6600, 2.4 Ghz, 2 coeurs, FSB 1066 mhz
+* Carte mère Asustek P5W DH Deluxe, socket 775, chipset i975X
+* 4 Go (4x1) de DDR2 PC6400
+* Ssd Intel X25-V 40 Go, 2.5"
+* Disque dur Hitachi Deskstar 7K160 160 Go, 3.5"
+* Gigabyte Geforce 8800 GTX 768 Mo, PCI-E
+* Carte son intégrée ?
+* Ecran : Dell E228WFP, 16/9, résolution de 1680x1050, 75 hz ?, branché sur la prise vga
+* clavier Corsair Strafe RGB
+* Souris Logitech MX610 Left-Hand 
+* Double boot avec Windows XP Mad Dog Edition sur le ssd et Ubuntu 18.04 LTS sur disque dur ?
+* Jeux : Crysis, Half-Life episode 1, Grid, Grid Autosport, Dirt 1, Battlefield 3
+
+### 2017 : i7 7700k et GTX 1070
+
+* Processeur Intel i7 7700k, 4.2 Ghz, 4T/8T
+* Carte mère MSI Z270 Gaming M7, socket 1151, chipset Z270
+* 32 Go (2x16) de ram Corsair Vengeance Red Led DDR4-3000
+* Ssd M2 Samsung 960 Pro 512 Go
+* 1 Disque dur Seagate BarraCuda 3 To, 3.5"
+* 1 Disque dur Seagate Desktop 2 To, 3.5"
+* 1 Disque dur Hitachi 750 Go, 2.5 ?
+* 1 Disque dur Western Digital WD2500KS 250 Go, 3.5", 7200 RPM
+* MSI GTX 1070 Gaming X 8 Go
+* Carte son intégrée Realtek® ALC1220
+* Alimentation Corsair RM650i
+* Ventirad Dark Rock Pro 3
+* Boitier Corsair Obsidian 750d airflow edition
+* Ecrans : triple avec Dell S2716DG, 16/9, WQHD, 144hz, G-SYNC sur prise Display port, Dell E228WFP sur prise dvi via adaptateur hdmi et Dell 1908FP sur prise dvi via adaptateur hdmi
+* clavier Corsair K70 RGB
+* souris Razer Diamondback RGB
+* Périphériques de jeu : 1 Volant Trustmaster T500RS, 1 pad Xbox One noir sans fil
+* Double boot avec Windows 10 et Ubuntu 18.04 LTS sur ssd
+* Jeux : Prey, Doom, Doom Eternal, Ori and The Blind Forest, Dirt Rally, Project Cars, Tomb Raider, Art of Rally
+
+### 2020 : NUC intel
+
+* Processeur i7 8559U, 2.7 Ghz, 4T/8T
+* 32 Go (2x16) de ram G.Skill RipJaws Series SO-DIMM DDR4-2400
+* Ssd M2 Samsung 860 EVO 1 Tb
+* 1 Disque dur Seagate BarraCuda 2To
+* Ecran : branché à une petite tv 32 pouces mais peu utilisé avec un écran
+* clavier sans fil BlueStork style apple
+* souris Microsoft Bluetooth Mobile Mouse 3600
+* Ubuntu 20.04 LTS
+* Pour l'autohébergement avec notamment Nextcloud
+* dans le salon, donc non présent dans le setup (**TODO** : ajout photo ?)
+
+**Note :** je ne me suis pas amusé à prendre les écrans cathodiques d'époques, le Dell FP1908 fait parfaitement l'affaire pour le 4/3
+
+### Le réseau
+
+* 1 routeur Linksys WRT32000ACM 1 Go
+* 1 switch Linksys SE4008-EJ 8 ports 1 Go, non connecté actuellement
+* 1 routeur Linksys WRT54GL 100 Mo pour brancher le reste
+
+### Les accessoires
+
+* 1 kit de montage au mur pour le Dell 27" Artic W1A
+* 1 bras pour montage au mur du Dell 22" Artic W1B
+* 1 support casque Razer
+* Barres Ikea KUNGSFORS pour le cable management
+* 1 wattmètre Chacon 54365 avec écran déporté
+
+### L'ambiance
+
+* 1 bandeau de leds RGB Govee 5m
+* 4 Philips Hue Play : 1 sur chaque écran (3x) et 1 sous le bureau avec pont de connexion et détecteur de présence (**TODO** : photo)
+* 1 lampe Aukey
+
+
+### Les photos
+
+et des vidéos ?
