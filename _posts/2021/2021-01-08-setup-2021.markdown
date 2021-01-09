@@ -12,7 +12,17 @@ J'ai beaucoup apprécié tes 2 setups : [le 2019](https://www.youtube.com/watch?
 
 ### L'histoire de mon setup
 
-J'ai toujours apprécié avoir un setup sympa, qu'il soit chargé ou minimaliste. J'ai eu pendant longtemps les cables en vrac sous le bureau. C'est Stefan Didak avec [son setup](http://www.stefandidak.com/office/home-office-version-7-setup-making-of/) qui m'a donné envie de faire un joli cable management, il y a un peu plus d'un an. Je suis ensuite tombé sur tes vidéos et sur celles de [Tech Tesseract](https://www.youtube.com/channel/UCT9CJkrdmTnZ-M5xns9chXQ). C'est tout cela qui m'a inspiré pour le setup que je te présente aujourd'hui.
+J'ai toujours apprécié avoir un setup sympa, qu'il soit chargé ou minimaliste. J'ai eu pendant longtemps les cables en vrac sous le bureau. C'est Stefan Didak avec [son setup](http://www.stefandidak.com/office/home-office-version-7-setup-making-of/) qui m'a donné envie de faire un joli cable management, il y a un peu plus d'un an.
+
+<a href="{{ site.baseurl }}/media/2021/20210107-setup-v1.jpg">
+    <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-v1.jpg" alt="Setup v1">
+</a>
+
+Je suis ensuite tombé sur tes vidéos et sur celles de [Tech Tesseract](https://www.youtube.com/channel/UCT9CJkrdmTnZ-M5xns9chXQ). C'est tout cela qui m'a inspiré pour le setup que je te présente aujourd'hui.
+
+<a href="{{ site.baseurl }}/media/2021/20210107-setup-v2.jpg">
+    <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-v2.jpg" alt="Setup v2">
+</a>
 
 Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1999 à 2017). Le but est de pouvoir notamment jouer à des jeux d'époques différentes sur la machine et l'écran (~) de l'époque. Les machines sont les suivantes :
 

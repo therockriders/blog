@@ -8,9 +8,9 @@ title: Home
 
 {% for post in site.posts %}
 <!-- START: Image Slider -->
-<div class="nk-image-slider" data-autoplay="8000">
+<div class="nk-image-slider" data-autoplay="0000">
     <div class="nk-image-slider-item">
-        <img src="{{ site.baseurl }}/{{post.image}}" alt="" class="nk-image-slider-img" data-thumb="{{ site.baseurl }}/{{post.image}}">
+        <img src="{{ site.baseurl }}/{{post.image}}" alt="" class="nk-image-slider-img">
         <div class="nk-image-slider-content">
             <h3 class="h4">{{ post.title }}</h3>
             <p class="text-white">{{ post.excerpt }}</p>
