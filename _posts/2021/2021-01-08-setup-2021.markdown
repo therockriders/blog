@@ -116,6 +116,7 @@ Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1
 
 ### Les accessoires
 
+* 2 support d'écrans Silverstone MR01 noir
 * 1 kit de montage au mur pour le Dell 27" Artic W1A
 * 1 bras pour montage au mur du Dell 22" Artic W1B
 * 1 support casque Razer
