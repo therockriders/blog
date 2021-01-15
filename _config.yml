@@ -51,3 +51,20 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+socials:
+  - name: YouTube
+    url: https://www.youtube.com/channel/UCfkVSBDB2gt7EaGeSkoHkvA/featured
+    css_class_suffix: youtube
+  - name: Rss feed
+    url: https://techmayhem.therockriders.net
+    css_class_suffix: rss
+  - name: Github
+    url: https://github.com/therockriders
+    css_class_suffix: github
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/julegall/
+    css_class_suffix: linkedin
+  - name: Steam
+    url: https://steamcommunity.com/id/rakou/
+    css_class_suffix: steam

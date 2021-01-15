@@ -47,11 +47,9 @@
             .nk-social-links-cols-2
     -->
     <ul class="nk-social-links-3 nk-social-links-cols-5">
-        <li><a class="nk-social-youtube" href="#"><span class="fab fa-youtube"></span></a></li>
-        <li><a class="nk-social-rss" href="#"><span class="fa fa-rss"></span></a></li>
-        <li><a class="nk-social-github" href="#"><span class="fab fa-github"></span></a></li>
-        <li><a class="nk-social-linkedin" href="#"><span class="fab fa-linkedin"></span></a></li>
-        <li><a class="nk-social-steam" href="#"><span class="fab fa-steam"></span></a></li>
+        {% for entry in site.socials %}
+            <li><a class="nk-social-{{ entry.css_class_suffix }}" href="{{ entry.url }}"><span class="fa fa-{{ entry.css_class_suffix }}"></span></a></li>
+        {% endfor %}
     </ul>
 </div>
 </div>
