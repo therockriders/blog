@@ -26,12 +26,12 @@ Je suis ensuite tombé sur tes vidéos et sur celles de [Tech Tesseract](https:/
     <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-v2.jpg" alt="Setup v2">
 </a>
 
-Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1999 à 2017). Le but est de pouvoir notamment jouer à des jeux d'époques différentes sur la machine et l'écran (~) de l'époque. Les machines sont les suivantes :
+Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1999 à 2020). Le but est de pouvoir notamment jouer à des jeux d'époques différentes sur la machine et l'écran (~) de l'époque. Les machines sont les suivantes :
 
 ### 1999 : Dell XPS et Nvidia TNT 2
 
 * Processeur Intel Pentium 3 450 Mhz (SSE 2)
-* Carte mère ? socket slot 1, chipset 440 BX ?
+* Carte mère ? slot 1, chipset 440 BX
 * 128 Mo de SDRAM PC133
 * Disques durs ?
 * Carte graphine TNT 2 Diamond ? 16 Mo ram ? PCI
@@ -48,14 +48,14 @@ Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1
 
 * Processeur Intel Pentium 4C 2.8 Ghz, 2 coeurs (Hyper Threating), FSB 800 mhz
 * Carte mère Asus P4C800 Deluxe, socket 478, chipset i875P
-* 512 Mo de DDRAM PC3200
+* 512 (2x256 ?) Mo de DDRAM PC3200
 * Disques durs ?
 * Carte graphique ATI Radeon 9800 Pro (Sapphire ?) 128 Mo, AGP
 * Carte son intégrée ADI AD1985 SoundMAX 6-channel
 * Boitier Antec SX1040BII
 * Windows XP
 * Jeux : Half Life 2, NFS Undergroud 1 et 2, Far Cry, Doom 3, Fear, Richard Burns Rally
-* Ecran : Dell 1908FP, 4/3, résolution de 1280x1024, 75 hz ?, sur prise dvi
+* Ecran : Dell 1908FP, 4/3, résolution de 1280x1024, 75 hz, sur prise dvi
 * Périphériques de jeu : 1 pad Microsoft SideWinder
 
 ### 2007 : Core 2 Duo et Geforce 8800 GTX
@@ -126,9 +126,10 @@ Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1
 
 ### Les accessoires
 
+* Enceintes Bose Companion 2 Série III
 * 2 support d'écrans Silverstone MR01 noir
-* 1 kit de montage au mur pour le Dell 27" Artic W1A
-* 1 bras pour montage au mur du Dell 22" Artic W1B
+* 1 kit Artic W1A pour montage au mur pour le Dell 27"
+* 1 bras Artic W1B pour montage au mur du Dell 22"
 * 1 support casque Razer
 * 1 support cassette TDK pour le téléphone
 * Barres Ikea KUNGSFORS pour le cable management
