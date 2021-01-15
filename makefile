@@ -9,4 +9,4 @@ push:
 deploy: build push
 
 serve:
-	bundle exec jekyll serve --drafts --watch -H 0.0.0.0
+	bundle exec jekyll serve --drafts --watch -H 0.0.0.0 --port 4001

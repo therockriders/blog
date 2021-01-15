@@ -8,7 +8,7 @@ image: media/2021/20210107-setup-cover.jpg
 
 Bonjour Guillaume, je suis avec attention ta chaîne depuis que je suis tombé dessus une nuit en donnant le biberon à ma fille de 1 mois. J'aimerais passer dans une de tes vidéos.
 
-J'ai beaucoup apprécié tes 2 setups : [le 2019](https://www.youtube.com/watch?v=QNivxUlGw_g&t=1035s) et [le plus récent](https://www.youtube.com/watch?v=Jv5Wt0P-IuE). Ca m'a donné pas mal d'idée pour le mien. J'aimerais te montrer mon setup et pourquoi pas que tu me sélectionnes pour passer dans une de tes prochaines vidéos sur Youtube.
+J'ai beaucoup apprécié tes 2 setups : [le 2019](https://www.youtube.com/watch?v=QNivxUlGw_g&t=1035s) et [le plus récent](https://www.youtube.com/watch?v=Jv5Wt0P-IuE). Ca m'a donné pas mal d'idées pour le mien. J'aimerais te montrer mon setup et pourquoi pas que tu me sélectionnes pour passer dans une de tes prochaines vidéos sur Youtube.
 
 ### L'histoire de mon setup
 
@@ -20,13 +20,15 @@ J'ai toujours apprécié avoir un setup sympa, qu'il soit chargé ou minimaliste
 
 Je suis ensuite tombé sur tes vidéos et sur celles de [Tech Tesseract](https://www.youtube.com/channel/UCT9CJkrdmTnZ-M5xns9chXQ). C'est tout cela qui m'a inspiré pour le setup que je te présente aujourd'hui.
 
+**TODO :** maj photo avec téléphone (écran allumé) sur dock cassette, avec claviers RGB allumé et souris, avec Windows sans icones
+
 <a href="{{ site.baseurl }}/media/2021/20210107-setup-v2.jpg">
     <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-v2.jpg" alt="Setup v2">
 </a>
 
 Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1999 à 2017). Le but est de pouvoir notamment jouer à des jeux d'époques différentes sur la machine et l'écran (~) de l'époque. Les machines sont les suivantes :
 
-### 1999 : Dell XPS
+### 1999 : Dell XPS et Nvidia TNT 2
 
 * Processeur Intel Pentium 3 450 Mhz (SSE 2)
 * Carte mère ? socket slot 1, chipset 440 BX ?
@@ -38,11 +40,11 @@ Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1
 * Graveur cd ?
 * Lecteur de disquette
 * Windows 98 v2
-* Jeux : Half Life, Star Wars Racer, F1 Racing Simulation
+* Jeux : Half Life, Star Wars Racer, F1 Racing Simulation, Quake 3 Arena
 * Ecran : Dell 1908FP, 4/3, résolution de 1280x1024, 75 hz ?, sur prise vga
-* Périphériques de jeu : Microsoft SideWinder Forcefeedback Pro, pad Saitek X6-34
+* Périphériques de jeu : Microsoft SideWinder Force Feedback Pro, pad Saitek X6-34
 
-### 2003 : Pentium 4
+### 2003 : Pentium 4 et ATI Radeon 9800 Pro
 
 * Processeur Intel Pentium 4C 2.8 Ghz, 2 coeurs (Hyper Threating), FSB 800 mhz
 * Carte mère Asus P4C800 Deluxe, socket 478, chipset i875P
@@ -56,7 +58,7 @@ Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1
 * Ecran : Dell 1908FP, 4/3, résolution de 1280x1024, 75 hz ?, sur prise dvi
 * Périphériques de jeu : 1 pad Microsoft SideWinder
 
-### 2007 : Core 2 Duo
+### 2007 : Core 2 Duo et Geforce 8800 GTX
 
 * Processeur Intel Core 2 Duo E6600, 2.4 Ghz, 2 coeurs, FSB 1066 mhz
 * Carte mère Asustek P5W DH Deluxe, socket 775, chipset i975X
@@ -97,8 +99,8 @@ Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1
 
 * Processeur i7 8559U, 2.7 Ghz, 4T/8T
 * 32 Go (2x16) de ram G.Skill RipJaws Series SO-DIMM DDR4-2400
-* Ssd M2 Samsung 860 EVO 1 Tb
-* 1 Disque dur Seagate BarraCuda 2To
+* Ssd M2 Samsung 860 EVO 1 To
+* 1 Disque dur Seagate BarraCuda 2 To
 * Ecran : branché à une petite tv 32 pouces mais peu utilisé avec un écran
 * clavier sans fil BlueStork style apple
 * souris Microsoft Bluetooth Mobile Mouse 3600
@@ -108,11 +110,19 @@ Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1
 
 **Note :** je ne me suis pas amusé à prendre les écrans cathodiques d'époques, le Dell FP1908 fait parfaitement l'affaire pour le 4/3
 
+**TODO :** ajout photo globale des machines si possible
+
 ### Le réseau
 
 * 1 routeur Linksys WRT32000ACM 1 Go
 * 1 switch Linksys SE4008-EJ 8 ports 1 Go, non connecté actuellement
 * 1 routeur Linksys WRT54GL 100 Mo pour brancher le reste
+
+<a href="{{ site.baseurl }}/media/2021/20210107-setup-v2.jpg">
+    <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-network.jpg" alt="Setup réseau v2">
+</a>
+
+**TODO :** photo du cable management des cables RJ45 des routeurs
 
 ### Les accessoires
 
@@ -120,6 +130,7 @@ Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1
 * 1 kit de montage au mur pour le Dell 27" Artic W1A
 * 1 bras pour montage au mur du Dell 22" Artic W1B
 * 1 support casque Razer
+* 1 support cassette TDK pour le téléphone
 * Barres Ikea KUNGSFORS pour le cable management
 * 1 wattmètre Chacon 54365 avec écran déporté
 
@@ -132,4 +143,13 @@ Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1
 
 ### Les photos
 
-et des vidéos ?
+et des vidéos ? 
+
+* une vidéo avec la porte fermée où l'on voit le logo en Lego
+* une vidéo d'une translation de la pièce
+* une photo panoramique de la pièce
+* photo du cable management
+
+### Au final
+
+Voici les caractéristiques et quelques photos de mon setup, j'espère qu'il te plaira. N'hésite pas à me dire ce qui pourrait être amélioré, modifié pour mettre plus en valeur ce setup.
