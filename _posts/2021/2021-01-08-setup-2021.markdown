@@ -8,9 +8,9 @@ image: media/2021/20210107-setup-cover.jpg
 
 Bonjour Guillaume, je suis avec attention ta chaîne depuis que je suis tombé dessus une nuit en donnant le biberon à ma fille de 1 mois. J'aimerais passer dans une de tes vidéos.
 
-J'ai beaucoup apprécié tes 2 setups : [le 2019](https://www.youtube.com/watch?v=QNivxUlGw_g&t=1035s) et [le plus récent](https://www.youtube.com/watch?v=Jv5Wt0P-IuE). Ca m'a donné pas mal d'idées pour le mien. J'aimerais te montrer mon setup et pourquoi pas que tu me sélectionnes pour passer dans une de tes prochaines vidéos sur Youtube.
+J'ai beaucoup apprécié tes 2 setups : [le 2019](https://www.youtube.com/watch?v=QNivxUlGw_g&t=1035s) et [le plus récent](https://www.youtube.com/watch?v=Jv5Wt0P-IuE). Ca m'a donné pas mal d'idées pour le mien. J'aimerais te montrer mon setup et pourquoi pas être sélectionné pour passer dans une de tes prochaines vidéos sur Youtube.
 
-### L'histoire de mon setup
+### L'historique de ce setup
 
 J'ai toujours apprécié avoir un setup sympa, qu'il soit chargé ou minimaliste. J'ai eu pendant longtemps les cables en vrac sous le bureau. C'est Stefan Didak avec [son setup](http://www.stefandidak.com/office/home-office-version-7-setup-making-of/) qui m'a donné envie de faire un joli cable management, il y a un peu plus d'un an.
 
@@ -18,7 +18,7 @@ J'ai toujours apprécié avoir un setup sympa, qu'il soit chargé ou minimaliste
     <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-v1.jpg" alt="Setup v1">
 </a>
 
-Je suis ensuite tombé sur tes vidéos et sur celles de [Tech Tesseract](https://www.youtube.com/channel/UCT9CJkrdmTnZ-M5xns9chXQ). C'est tout cela qui m'a inspiré pour le setup que je te présente aujourd'hui.
+Je suis récemment tombé sur tes vidéos et sur celles de [Tech Tesseract](https://www.youtube.com/channel/UCT9CJkrdmTnZ-M5xns9chXQ). C'est tout cela qui m'a inspiré pour le setup que je te présente aujourd'hui.
 
 **TODO :** maj photo avec téléphone (écran allumé) sur dock cassette, avec claviers RGB allumé et souris, avec Windows sans icones
 
@@ -26,7 +26,14 @@ Je suis ensuite tombé sur tes vidéos et sur celles de [Tech Tesseract](https:/
     <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-v2.jpg" alt="Setup v2">
 </a>
 
-Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1999 à 2020). Le but est de pouvoir notamment jouer à des jeux d'époques différentes sur la machine et l'écran (~) de l'époque. Les machines sont les suivantes :
+Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1999 à 2020). Le but est de pouvoir : 
+
+* jouer à des jeux d'époques différentes sur la machine et l'écran (~) de l'époque. 
+* faire du dev web sur 3 écrans
+* faire un peu d'admin Linux
+* bricoler sur des machines d'époques différentes
+
+Les machines sont les suivantes :
 
 ### 1999 : Dell XPS et Nvidia TNT 2
 
