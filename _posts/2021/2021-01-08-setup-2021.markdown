@@ -3,7 +3,7 @@ layout: post
 title:  "Setup 2021 !"
 date:   2021-01-08 20:09:00 +0100
 categories: gaming setup
-image: media/2021/20210107-setup-cover.jpg
+image: media/2021/20210107-setup-global.jpg
 ---
 
 Bonjour Guillaume, je suis avec attention ta chaîne depuis que je suis tombé dessus une nuit en donnant le biberon à ma fille de 1 mois. J'aimerais passer dans une de tes vidéos.
@@ -22,8 +22,8 @@ Je suis récemment tombé sur tes vidéos et sur celles de [Tech Tesseract](http
 
 **TODO :** maj photo avec téléphone (écran allumé) sur dock cassette, avec claviers RGB allumé et souris, avec Windows sans icones
 
-<a href="{{ site.baseurl }}/media/2021/20210107-setup-v2.jpg">
-    <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-v2.jpg" alt="Setup v2">
+<a href="{{ site.baseurl }}/media/2021/20210107-global-lumiere.jpg">
+    <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-global-lumiere.jpg" alt="Setup v2">
 </a>
 
 Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1999 à 2020). Le but est de pouvoir : 
@@ -148,8 +148,45 @@ Les machines sont les suivantes :
 * 4 Philips Hue Play : 1 sur chaque écran (3x) et 1 sous le bureau avec pont de connexion et détecteur de présence (**TODO** : photo)
 * 1 lampe Aukey
 
+### Consommation d'énergie
+
+Il est important de nos jours d'avoir conscience de sa cosommation d'énergie, j'ai donc ajouter un wattmètre pour voir en temps réel la consommation d'énergie du setup (du mois la partie principale). Ce wattmètre a un écran déporté que j'ai accroché via un petit bricolage à 1 des bras des écrans.
+
+<a href="{{ site.baseurl }}/media/2021/20210107-setup-wattmetre.jpg">
+    <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-wattmetre.jpg" alt="Setup avec Wattmètre">
+</a>
+
+Zoom sur le wattmètre
+
+<a href="{{ site.baseurl }}/media/2021/20210107-setup-wattmetre-zoom.jpg">
+    <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-wattmetre-zoom.jpg" alt="Zoom sur le wattmètre">
+</a>
 
 ### Les photos
+
+L'espace avec le clavier principal
+
+<a href="{{ site.baseurl }}/media/2021/20210107-clavier-principal.jpg">
+    <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-clavier-principal.jpg" alt="Clavier principal">
+</a>
+
+Le switch audio jack 3.5 et port usb, utilisé uniquement pour les machines de gauche
+
+<a href="{{ site.baseurl }}/media/2021/20210107-setup-switch-audio.jpg">
+    <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-switch-audio.jpg" alt="Switch audio">
+</a>
+
+Les étagères : retro-gaming, cartes mères et boites de composants de différentes génération, jeux vidéos en dvd
+
+<a href="{{ site.baseurl }}/media/2021/20210107-setup-etageres.jpg">
+    <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-etageres.jpg" alt="Etagères">
+</a>
+
+La bibliothèque à droite du bureau : mangas, figurines de chevaliers du zodiaque, magazines Joystick
+
+<a href="{{ site.baseurl }}/media/2021/20210107-setup-bibliotheque.jpg">
+    <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-bibliotheque.jpg" alt="Bibliothèque">
+</a>
 
 et des vidéos ? 
 
@@ -157,6 +194,8 @@ et des vidéos ?
 * une vidéo d'une translation de la pièce
 * une photo panoramique de la pièce
 * photo du cable management
+* photo et description cable dp et prise jack + scratch
+* photo avec baby phone
 
 ### Au final
 
