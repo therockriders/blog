@@ -3,7 +3,7 @@ layout: post
 title:  "Setup 2021 !"
 date:   2021-01-08 20:09:00 +0100
 categories: gaming setup
-image: media/2021/20210107-setup-global.jpg
+image: media/2021/20210107-setup-global-lumiere-custom.jpg
 ---
 
 Bonjour Guillaume, je suis avec attention ta chaîne depuis que je suis tombé dessus une nuit en donnant le biberon à ma fille de 1 mois. J'aimerais passer dans une de tes vidéos.
@@ -23,7 +23,7 @@ Je suis récemment tombé sur tes vidéos et sur celles de [Tech Tesseract](http
 **TODO :** maj photo avec téléphone (écran allumé) sur dock cassette, avec claviers RGB allumé et souris, avec Windows sans icones
 
 <a href="{{ site.baseurl }}/media/2021/20210107-global-lumiere.jpg">
-    <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-global-lumiere.jpg" alt="Setup v2">
+    <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-global-lumiere-custom.jpg" alt="Setup v2">
 </a>
 
 Ce setup comporte plusieurs machines et plusieurs écrans d'époques variées (1999 à 2020). Le but est de pouvoir : 
