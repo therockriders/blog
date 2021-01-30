@@ -73,7 +73,6 @@ Les machines sont les suivantes :
 * Ssd Intel X25-V 40 Go, 2.5"
 * Disque dur Hitachi Deskstar 7K160 160 Go, 3.5"
 * Gigabyte Geforce 8800 GTX 768 Mo, PCI-E
-* Carte son intégrée ?
 * Ecran : Dell E228WFP, 16/9, résolution de 1680x1050, 75 hz ?, branché sur la prise vga
 * clavier Corsair Strafe RGB
 * Souris Logitech MX610 Left-Hand 
@@ -88,7 +87,7 @@ Les machines sont les suivantes :
 * Ssd M2 Samsung 960 Pro 512 Go
 * 1 Disque dur Seagate BarraCuda 3 To, 3.5"
 * 1 Disque dur Seagate Desktop 2 To, 3.5"
-* 1 Disque dur Hitachi 750 Go, 2.5 ?
+* 1 Disque dur Hitachi 750 Go, 2.5"
 * 1 Disque dur Western Digital WD2500KS 250 Go, 3.5", 7200 RPM
 * MSI GTX 1070 Gaming X 8 Go
 * Carte son intégrée Realtek® ALC1220
@@ -113,7 +112,7 @@ Les machines sont les suivantes :
 * souris Microsoft Bluetooth Mobile Mouse 3600
 * Ubuntu 20.04 LTS
 * Pour l'autohébergement avec notamment Nextcloud
-* dans le salon, donc non présent dans le setup (**TODO** : ajout photo ?)
+* dans le salon, donc non présent dans le setup
 
 **Note :** je ne me suis pas amusé à prendre les écrans cathodiques d'époques, le Dell FP1908 fait parfaitement l'affaire pour le 4/3
 
