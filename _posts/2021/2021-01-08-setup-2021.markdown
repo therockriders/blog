@@ -216,7 +216,7 @@ L'arrière des écrans
     <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-arrière-écrans.jpg" alt="L'arrière des écrans">
 </a>
 
-Le cable mamangement
+Le cable management
 
 <a href="{{ site.baseurl }}/media/2021/20210107-setup-cable-management.jpg">
     <img class="nk-img-fit" src="{{ site.baseurl }}/media/2021/20210107-setup-cable-management.jpg" alt="Cable management">
